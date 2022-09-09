@@ -3846,9 +3846,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CalidadT1\\CalidadT1\\Pruebas\\Pruebas.csproj",
-      "projectName": "Pruebas",
-      "projectPath": "D:\\CalidadT1\\CalidadT1\\Pruebas\\Pruebas.csproj",
+      "projectUniqueName": "D:\\CalidadT1\\CalidadT1\\Pruebas\\PruebaRomanos.csproj",
+      "projectName": "PruebaRomanos",
+      "projectPath": "D:\\CalidadT1\\CalidadT1\\Pruebas\\PruebaRomanos.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
       "outputPath": "D:\\CalidadT1\\CalidadT1\\Pruebas\\obj\\",
       "projectStyle": "PackageReference",
